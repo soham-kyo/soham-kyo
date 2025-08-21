@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/hey,%20myself%20soham patil-%23d8b4fe?style=for-the-badge&logoColor=white" />
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=|+GPA'26+🎓+|+ex-RSMLite+🌟+|;AI+%7C+Data+Science+%7C+Web+Creator;Computer+Engineering+🚀;Building+in+public!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=|+GPA'26+🎓+|+ex-RSMLite+🌟+|;AI+%7C+Data+Science+%7C+Web+Creator;Computer+Engineering+🚀;Building+in+public!"/>
 </h1>
 
 ---
@@ -71,8 +71,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&weight=700&size=30&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=✨❀+Thanks+For+Visiting+❀✨;🤗+SEE+YOU+NEXT+TIME+🤗;🥂+Made+by+Soham+Patil+🥂" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&weight=700&size=30&duration=2000&pause=700&color=FF00FF&center=true&vCenter=true&width=700&lines=✨❀%20Thanks%20For%20Visiting%20❀✨;🤗%20SEE%20YOU%20NEXT%20TIME%20🤗;🥂%20Made%20by%20Soham%20Patil%20🥂">
 </p>
+
+
 
 <p align="center">
   <!-- Bottom -->
