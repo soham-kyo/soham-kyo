@@ -46,6 +46,9 @@
   <a href="https://github.com/soham-kyo/Interactive-Story-Telling-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=Interactive-Story-Telling-App&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
+  <a href="https://github.com/soham-kyo/KyoLinks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true&cache_seconds=1800" />
+  </a>
 </p>
 
 ---
