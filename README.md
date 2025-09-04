@@ -9,10 +9,9 @@
 ---
 
 ## 🔥 Live GitHub Dashboard
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=soham-kyo&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=soham-kyo&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=soham-kyo&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soham-kyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E639AF&text_color=FFFFFF&icon_color=E639AF" height="170"/>
 </p>
 
 <p align="center">
