@@ -10,28 +10,33 @@
 
 ## 🔥 Live GitHub Dashboard
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soham-kyo&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=soham-kyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E639AF&text_color=FFFFFF&icon_color=E639AF" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=soham-kyo&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soham-kyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E639AF&text_color=FFFFFF&icon_color=E639AF&cache_seconds=50000" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-kyo&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-kyo&theme=redical&hide_border=true&cache_seconds=50000" />
 </p>
-
 ---
 
 ## 🧠 Skills & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,figma" />
+  
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,idea,pycharm,tensorflow" />
+  
 </p>
-
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Tesseract.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" />
+  
+</p>
 ---
 
 ## 📊 Stats in Numbers
 <p align="center">
-   <img src="https://img.shields.io/github/followers/soham-kyo?label=Followers&style=for-the-badge&color=orange&labelColor=9b59b6" />
-   <img src="https://img.shields.io/github/stars/soham-kyo?label=Total%20Stars&style=for-the-badge&color=orange&labelColor=9b59b6" />
-   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsoham-kyo&style=for-the-badge&color=orange&labelColor=9b59b6" />
+   <img src="https://img.shields.io/github/followers/soham-kyo?label=Followers&style=for-the-badge&color=orange&labelColor=9b59b6&cache_seconds=50000" />
+   <img src="https://img.shields.io/github/stars/soham-kyo?label=Total%20Stars&style=for-the-badge&color=orange&labelColor=9b59b6&cache_seconds=50000" />
+   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsoham-kyo&style=for-the-badge&color=orange&labelColor=9b59b6&cache_seconds=50000" />
 </p>
 
 <p align="center">
@@ -43,10 +48,10 @@
 ## 🚀 Spotlight Project
 <p align="center">
   <a href="https://github.com/soham-kyo/Interactive-Story-Telling-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=Interactive-Story-Telling-App&theme=radical&hide_border=true&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=Interactive-Story-Telling-App&theme=radical&hide_border=true&cache_seconds=50000" />
   </a>
   <a href="https://github.com/soham-kyo/KyoLinks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true&cache_seconds=50000" />
   </a>
 </p>
 
