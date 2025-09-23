@@ -17,19 +17,18 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-kyo&theme=redical&hide_border=true&cache_seconds=50000" />
 </p>
+
 ---
 
 ## 🧠 Skills & Tools I Use
 <p align="center">
-  
   <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,idea,pycharm,tensorflow" />
-  
 </p>
+
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Tesseract.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" />
-  
 </p>
+
 ---
 
 ## 📊 Stats in Numbers
