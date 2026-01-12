@@ -47,7 +47,7 @@
 ## 🚀 Spotlight Project
 <p align="center">
   <a href="https://github.com/soham-kyo/KyoLinks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true&cache_seconds=50000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true&cache_seconds=70000" />
   </a>
 </p>
 
