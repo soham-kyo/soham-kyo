@@ -10,9 +10,9 @@
 
 ## 🔥 Live GitHub Dashboard
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soham-kyo&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=70000" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=soham-kyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E639AF&text_color=FFFFFF&icon_color=E639AF&cache_seconds=70000" height="170"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=soham-kyo&theme=tokyonight&hide_border=true&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soham-kyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E639AF&text_color=FFFFFF&icon_color=E639AF" height="170"/>
+  </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-kyo&theme=redical&hide_border=true&cache_seconds=50000" />
@@ -47,7 +47,7 @@
 ## 🚀 Spotlight Project
 <p align="center">
   <a href="https://github.com/soham-kyo/KyoLinks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true&cache_seconds=70000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true" />
   </a>
 </p>
 
