@@ -46,6 +46,9 @@
 
 ## 🚀 Spotlight Project
 <p align="center">
+  <a href="https://github.com/soham-kyo/KyoReader">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=soham-kyo&repo=KyoReader&theme=radical&hide_border=true" />
+  </a>
   <a href="https://github.com/soham-kyo/KyoLinks">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=soham-kyo&repo=KyoLinks&theme=radical&hide_border=true" />
   </a>
