@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/hey,%20myself%20soham patil-%23d8b4fe?style=for-the-badge&logoColor=white" />
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=|+GPA'26+🎓+|+ex-RSMLite+🌟+|;AI+%7C+Data+Science+%7C+Web+Creator;Computer+Engineering+💻;Building+in+public!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=|+CU'29+🎓+|+GPA'26+🌟+|;AI+%7C+DSA+%7C+Web+Creator;Computer+Science+and+Engineering+💻;Building+in+public!"/>
 </h1>
 
 ---
