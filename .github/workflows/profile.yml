@@ -1,0 +1,21 @@
+name: Update Profile
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Test GitHub Actions
+        run: |
+          echo "Profile workflow is working!"
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "User: soham-kyo"
