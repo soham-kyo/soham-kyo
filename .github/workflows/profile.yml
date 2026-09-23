@@ -1,6 +1,9 @@
 name: Update Profile
 
 on:
+  schedule:
+    - cron: "0 3 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -12,10 +15,39 @@ jobs:
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      - name: Test GitHub Actions
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=soham-kyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E639AF&text_color=FFFFFF&icon_color=E639AF
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate KyoReader Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=soham-kyo&repo=KyoReader&theme=radical&hide_border=true
+          path: profile/kyo-reader.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate SkillShare Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=soham-kyo&repo=SkillShare&theme=radical&hide_border=true
+          path: profile/skillshare.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
         run: |
-          echo "Profile workflow is working!"
-          echo "Repository: $GITHUB_REPOSITORY"
-          echo "User: soham-kyo"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "Update profile statistics" || exit 0
+
+          git push
