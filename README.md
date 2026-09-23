@@ -6,7 +6,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=|+CU'29+🎓+|+GPA'26+🌟+|;AI+%7C+DSA+%7C+Web+Creator;Computer+Science+and+Engineering+💻;Building+in+public!"/>
 </h1>
-
 ---
 
 ## 🔥 Live GitHub Dashboard
@@ -18,7 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-kyo&theme=redical&hide_border=true&cache_seconds=50000" />
+  <img
+    src="https://raw.githubusercontent.com/soham-kyo/soham-kyo/output/activity-graph.svg"
+    alt="Soham Patil GitHub Activity Graph"
+  />
 </p>
 
 ---
