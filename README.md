@@ -1,11 +1,12 @@
 ---
-<!--Profile README -->
+
 <p align="center">
 <img src="https://img.shields.io/badge/hey,%20myself%20soham patil-%23d8b4fe?style=for-the-badge&logoColor=white" />
 </p>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=|+CU'29+🎓+|+GPA'26+🌟+|;AI+%7C+DSA+%7C+Web+Creator;Computer+Science+and+Engineering+💻;Building+in+public!"/>
 </h1>
+
 ---
 
 ## 🔥 Live GitHub Dashboard
@@ -84,7 +85,7 @@
 ---
 
 <p align="center">
-  <!-- Top -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:9B59B6,50:8E44AD,100:FF00FF&animation=twinkling"/>
 </p>
 
@@ -93,7 +94,7 @@
 </p>
 
 <p align="center">
-  <!-- Bottom -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF00FF,50:8E44AD,100:9B59B6"/>
 </p>
 
